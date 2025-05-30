@@ -8,6 +8,7 @@ app = create_app()
 
 
 def import_events(json_file_path):
+    """Import events from a JSON file into the database."""
     with app.app_context():
         # Load JSON data
         with open(json_file_path) as f:
