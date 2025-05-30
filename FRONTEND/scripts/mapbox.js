@@ -50,7 +50,7 @@ const map = new mapboxgl.Map({
 let features = [];
 $.ajax({
     type: "GET",
-    url: "https://pride-api.onrender.com/api/events",
+    url: "http://localhost:5000/api/events",
     success: function (eventsDataFromApi) {
         // get country for event from api
         for (let eventFromApi in eventsDataFromApi) {

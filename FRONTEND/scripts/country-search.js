@@ -12,7 +12,7 @@ if (document.getElementById("searchButton") != null) {
 function requestCountry(countryName) {
     $.ajax({
         type: "GET",
-        url: "https://pride-api.onrender.com/api/events/" + countryName,
+        url: "http://localhost:5000/api/events/" + countryName,
         success: function (eventsDataFromApi) {
             
             // If the countries match up

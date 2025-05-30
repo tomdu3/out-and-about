@@ -11,7 +11,7 @@ form.addEventListener('submit', function (event) {
     return;
   } else {
 
-  fetch('https://pride-api.onrender.com/api/contacts', {
+  fetch('http://localhost:5000/api/contacts', {
     method: 'POST',
     body: jsonData,
     headers: {
