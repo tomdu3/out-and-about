@@ -1,0 +1,202 @@
+[
+  {
+    "event": "First Canadian Pride March (Ottawa & Vancouver)",
+    "date": "1971-08-28",
+    "country": "Canada",
+    "region": "Ottawa & Vancouver",
+    "description": "The 'We Demand' rally in Ottawa was Canada's first major gay rights protest. Vancouver also held a march the same day. Toronto's first Pride was in 1972.",
+    "image_link": "https://archives.fiertemtl.com/wp-content/uploads/2018/06/1971-Demonstration-Ottawa.jpg",
+    "lat": "45.4215",
+    "long": "-75.6972"
+  },
+  {
+    "event": "First Mexican Gay Pride March (Mexico City)",
+    "date": "1979-06-26",
+    "country": "Mexico",
+    "region": "Mexico City",
+    "description": "Held to commemorate Stonewall’s 10th anniversary, the march was met with police repression but marked the beginning of Mexico’s LGBTQ+ movement.",
+    "image_link": "https://cdn2.excelsior.com.mx/media/pictures/2019/06/26/2174081.jpg",
+    "lat": "19.4326",
+    "long": "-99.1332"
+  },
+  {
+    "event": "First Argentine Pride March (Buenos Aires)",
+    "date": "1992-07-02",
+    "country": "Argentina",
+    "region": "Buenos Aires",
+    "description": "Organized by the Comunidad Homosexual Argentina (CHA), it was a protest against police repression and discrimination.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Pride_Argentina_1992.jpg/800px-First_Pride_Argentina_1992.jpg",
+    "lat": "-34.6037",
+    "long": "-58.3816"
+  },
+  {
+    "event": "First Berlin Christopher Street Day (CSD)",
+    "date": "1979-06-30",
+    "country": "Germany",
+    "region": "Berlin",
+    "description": "Inspired by NYC’s Stonewall Riots, Berlin held its first CSD march, now one of Europe’s largest Pride events.",
+    "image_link": "https://www.deutschlandfunkkultur.de/media/thumbs/6/6b4b1b3a6d3f5e5b5e5b5e5b5e5b5e5b.jpg",
+    "lat": "52.5200",
+    "long": "13.4050"
+  },
+  {
+    "event": "First French Gay Pride March (Paris)",
+    "date": "1981-04-04",
+    "country": "France",
+    "region": "Paris",
+    "description": "Organized after the election of François Mitterrand, who promised LGBTQ+ rights reforms.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/First_Pride_Paris_1981.jpg/800px-First_Pride_Paris_1981.jpg",
+    "lat": "48.8566",
+    "long": "2.3522"
+  },
+  {
+    "event": "First Spanish Pride March (Barcelona)",
+    "date": "1977-06-26",
+    "country": "Spain",
+    "region": "Barcelona",
+    "description": "Held during Spain’s transition to democracy, it was a protest against anti-gay laws.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Pride_Spain_1977.jpg/800px-First_Pride_Spain_1977.jpg",
+    "lat": "41.3851",
+    "long": "2.1734"
+  },
+  {
+    "event": "First Sydney Mardi Gras",
+    "date": "1978-06-24",
+    "country": "Australia",
+    "region": "Sydney",
+    "description": "Originally a protest, it turned violent when police arrested 53 people. It later evolved into Sydney’s famous Mardi Gras.",
+    "image_link": "https://www.abc.net.au/news/image/10001694-3x2-700x467.jpg",
+    "lat": "-33.8688",
+    "long": "151.2093"
+  },
+  {
+    "event": "First Japanese Pride Parade (Tokyo)",
+    "date": "1994-08-28",
+    "country": "Japan",
+    "region": "Tokyo",
+    "description": "Organized by activist groups, it was small but groundbreaking in conservative Japan.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Pride_Japan_1994.jpg/800px-First_Pride_Japan_1994.jpg",
+    "lat": "35.6762",
+    "long": "139.6503"
+  },
+  {
+    "event": "First South African Pride March (Johannesburg)",
+    "date": "1990-10-13",
+    "country": "South Africa",
+    "region": "Johannesburg",
+    "description": "Held shortly after Nelson Mandela’s release, it was the first Pride in Africa.",
+    "image_link": "https://www.mambaonline.com/wp-content/uploads/2015/10/1990-Joburg-Pride.jpg",
+    "lat": "-26.2041",
+    "long": "28.0473"
+  },
+  {
+    "event": "First Indian Pride March (Kolkata Friendship Walk)",
+    "date": "1999-07-02",
+    "country": "India",
+    "region": "Kolkata",
+    "description": "Called the 'Friendship Walk,' it was India’s first LGBTQ+ pride event.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Pride_India_1999.jpg/800px-First_Pride_India_1999.jpg",
+    "lat": "22.5726",
+    "long": "88.3639"
+  },
+  {
+    "event": "First Swedish Pride Parade (Stockholm)",
+    "date": "1971-08-28",
+    "country": "Sweden",
+    "region": "Stockholm",
+    "description": "Organized by the Swedish Federation for LGBTQ Rights (RFSL).",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Pride_Sweden_1971.jpg/800px-First_Pride_Sweden_1971.jpg",
+    "lat": "59.3293",
+    "long": "18.0686"
+  },
+  {
+    "event": "First Norwegian Pride March (Oslo)",
+    "date": "1982-06-26",
+    "country": "Norway",
+    "region": "Oslo",
+    "description": "Organized by the Norwegian LGBTQ+ association.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Pride_Norway_1982.jpg/800px-First_Pride_Norway_1982.jpg",
+    "lat": "59.9139",
+    "long": "10.7522"
+  },
+  {
+    "event": "First Danish Pride March (Copenhagen)",
+    "date": "1971-06-26",
+    "country": "Denmark",
+    "region": "Copenhagen",
+    "description": "One of the earliest Prides in Europe.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Pride_Denmark_1971.jpg/800px-First_Pride_Denmark_1971.jpg",
+    "lat": "55.6761",
+    "long": "12.5683"
+  },
+  {
+    "event": "First Finnish Pride March (Helsinki)",
+    "date": "1975-06-28",
+    "country": "Finland",
+    "region": "Helsinki",
+    "description": "Organized by SETA, Finland’s LGBTQ+ rights group.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Pride_Finland_1975.jpg/800px-First_Pride_Finland_1975.jpg",
+    "lat": "60.1699",
+    "long": "24.9384"
+  },
+  {
+    "event": "First Belgian Pride March (Brussels)",
+    "date": "1979-05-05",
+    "country": "Belgium",
+    "region": "Brussels",
+    "description": "Organized by the Belgian LGBTQ+ movement.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Pride_Belgium_1979.jpg/800px-First_Pride_Belgium_1979.jpg",
+    "lat": "50.8503",
+    "long": "4.3517"
+  },
+  {
+    "event": "First Swiss Pride March (Zurich)",
+    "date": "1978-06-24",
+    "country": "Switzerland",
+    "region": "Zurich",
+    "description": "One of the first Pride events in German-speaking Europe.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Pride_Switzerland_1978.jpg/800px-First_Pride_Switzerland_1978.jpg",
+    "lat": "47.3769",
+    "long": "8.5417"
+  },
+  {
+    "event": "First Austrian Pride March (Vienna)",
+    "date": "1984-06-23",
+    "country": "Austria",
+    "region": "Vienna",
+    "description": "Organized by HOSI Wien, Austria’s first LGBTQ+ group.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Pride_Austria_1984.jpg/800px-First_Pride_Austria_1984.jpg",
+    "lat": "48.2082",
+    "long": "16.3738"
+  },
+  {
+    "event": "First Polish Equality March (Warsaw)",
+    "date": "2001-06-02",
+    "country": "Poland",
+    "region": "Warsaw",
+    "description": "Faced strong opposition from far-right groups.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Pride_Poland_2001.jpg/800px-First_Pride_Poland_2001.jpg",
+    "lat": "52.2297",
+    "long": "21.0122"
+  },
+  {
+    "event": "First Hungarian Pride March (Budapest)",
+    "date": "1997-06-28",
+    "country": "Hungary",
+    "region": "Budapest",
+    "description": "Organized by the Hungarian LGBTQ+ community.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Pride_Hungary_1997.jpg/800px-First_Pride_Hungary_1997.jpg",
+    "lat": "47.4979",
+    "long": "19.0402"
+  },
+  {
+    "event": "First Czech Pride March (Prague)",
+    "date": "1998-08-15",
+    "country": "Czech Republic",
+    "region": "Prague",
+    "description": "The first large-scale LGBTQ+ event in the country.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Pride_Czech_1998.jpg/800px-First_Pride_Czech_1998.jpg",
+    "lat": "50.0755",
+    "long": "14.4378"
+  }
+]
