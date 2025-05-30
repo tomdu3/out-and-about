@@ -270,7 +270,7 @@ Or return a message to ask to go to the contact page if the person has some info
 
 #### Database Models
 
-A PostgreSQL database hosted on render.com was used to hold the data collected for pride events.
+A PostgreSQL database hosted on Neon.tech was used to hold the data collected for pride events.
 
 ##### Pride Event Model
 
@@ -301,7 +301,7 @@ A model describing the information provided through the contact form
 
 #### API for pride events
 
-An API was built using Flask and flask_restx to handle different queries between the website and the database. It was hosted as a Web Service on render.com. The queries and url paths are explained below.
+An API was built using Flask and flask_restx to handle different queries between the website and the database. It was hosted as a Web Service on Vercel. The queries and url paths are explained below.
 
 BASE_URL = https://out-and-about-api.vercel.app
 
@@ -532,12 +532,12 @@ The goal section provides a concise summary of the main objective or purpose of 
   - A lightweight web framework written in Python for building web applications.
 - [Mapbox API](https://www.mapbox.com/ "Link to Mapbox API homp page")
   - An open-source mapping platform for custom-designed maps and location-based applications.
-- [Render.com](https://render.com/ "Link to Render home page")
-  - A cloud platform for deploying and scaling web applications.
 - [PostgreSQL](https://www.postgresql.org/ "Link to PostgreSQL home page")
   - An open-source relational database management system.
 - [Flowbite](https://flowbite.com/docs/getting-started/quickstart/ "Link to Flowbite homepage")
   - Flowbite was used to create a dropdown button in the navigation bar.
+- [Vercel](https://vercel.com/ "Link to Vercel homepage")
+  - Vercel was used to host the API and the website.
 - [Canva Color Palette Generator](https://www.canva.com/colors/color-palette-generator/ "Link to Canva home page")
   - Canva Color Palette Generator was used to make the initial colour palette.
 - [CSS Gradient](https://cssgradient.io/)
