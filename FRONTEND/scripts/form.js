@@ -11,7 +11,7 @@ form.addEventListener('submit', function (event) {
     return;
   } else {
 
-  fetch('http://localhost:5000/api/contacts', {
+  fetch('https://out-and-about-api.vercel.app/api/contacts', {
     method: 'POST',
     body: jsonData,
     headers: {

@@ -50,7 +50,7 @@ const map = new mapboxgl.Map({
 let features = [];
 $.ajax({
     type: "GET",
-    url: "http://localhost:5000/api/events",
+    url: "https://out-and-about-api.vercel.app/api/events",
     success: function (eventsDataFromApi) {
         // get country for event from api
         for (let eventFromApi in eventsDataFromApi) {

@@ -12,7 +12,7 @@ if (document.getElementById("searchButton") != null) {
 function requestCountry(countryName) {
     $.ajax({
         type: "GET",
-        url: "http://localhost:5000/api/events/" + countryName,
+        url: "https://out-and-about-api.vercel.app/api/events/" + countryName,
         success: function (eventsDataFromApi) {
             
             // If the countries match up
